@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-const ScheduleDemoPage = () => {
+const SignupPage = () => {
   return (
     <>
       <section className="relative z-10 overflow-hidden pt-36 pb-16 md:pb-20 lg:pt-[180px] lg:pb-28">
