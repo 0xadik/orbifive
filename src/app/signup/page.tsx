@@ -311,4 +311,4 @@ const ScheduleDemoPage = () => {
   );
 };
 
-export default ScheduleDemoPage;
+export default SignupPage;
